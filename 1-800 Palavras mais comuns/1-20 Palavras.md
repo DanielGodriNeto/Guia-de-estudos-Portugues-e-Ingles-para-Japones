@@ -1,79 +1,222 @@
 
+---
 
-1 - Kon'nichiwa - Oi / Hello
-Hitobito ga kon'ichiwa to itte iru.
-The people are saying hello.
+## 1 · Kon'nichiwa
 
-2 - Sumimasen - Licensa / Exuse me
-Sumimasen, Kore Kudasai
-Excuse me. This one please
+**Pronúncia:** Kon · NI · chi · wa 🇺🇸 **Hello** · 🇧🇷 **Oi**
 
-3 - Gomen nasai - Me desculpe / im Sorry
-Issho ni ikenakute, gomen nasai.
-Sorry, i can't go with you
+|🇯🇵|Hitobito ga <mark style="background-color:#0d1f3c;color:#ffffff;">kon'nichiwa</mark> to itte iru.|
+|---|---|
+|🇺🇸|The people are saying <mark style="background-color:#0d1f3c;color:#ffffff;">hello</mark>.|
+|🇧🇷|As pessoas estão dizendo <mark style="background-color:#0d1f3c;color:#ffffff;">oi</mark>.|
 
-4 - Oyasuminasai - Boa noite / Good night
-Kurokawa-sensei, oyasuminasai
-good night, Mr. Kurokawa
+---
 
-5 - Hajimemashite - Bom te conhecer / Nice to meet you
-Abe-san, Hajimemashite. Daniel to moshimasu.
-Mr. Abe, nice to meet you. i'm Daniel
+## 2 · Sumimasen
 
-6- O-genki desu ka. - Como voce esta? / How are you?
-Kon'nichiwa, Matsushima-san, o-genki desu ka.
-Hello Mr. Matsushima. How are you?
+**Pronúncia:** Su · mi · MA · sen 🇺🇸 **Excuse me** · 🇧🇷 **Com licença**
 
-7 - Hai - Sim / yes
-Hai, kore wa watashi no desu
-Yes, this is mine.
+|🇯🇵|<mark style="background-color:#0d1f3c;color:#ffffff;">Sumimasen</mark>, Kore Kudasai.|
+|---|---|
+|🇺🇸|<mark style="background-color:#0d1f3c;color:#ffffff;">Excuse me</mark>, this one please.|
+|🇧🇷|<mark style="background-color:#0d1f3c;color:#ffffff;">Com licença</mark>, este aqui, por favor.|
 
-8- iie - Nao / no
-iie, watashi wa nusunde imasen
-No, I didn't steal it!
+---
 
-9- arigato - Obrigado / Thank you
-Arigato. Demo, watashi wa kore o chumon shite imasen.
-Thank you, but i didn't order this.
+## 3 · Gomen nasai
 
-10 - Watashi wa Daniel desu - Eu sou Daniel / Im am Daniel
+**Pronúncia:** Go · men · NA · sai 🇺🇸 **I'm sorry** · 🇧🇷 **Me desculpe**
 
-11 - Sayonara - Tchau / Goodbye
-Sayonara, mata ashita aimasho!
-Goodbye, i'll see you tomorrow.
+|🇯🇵|Issho ni ikenakute, <mark style="background-color:#0d1f3c;color:#ffffff;">gomen nasai</mark>.|
+|---|---|
+|🇺🇸|<mark style="background-color:#0d1f3c;color:#ffffff;">Sorry</mark>, I can't go with you.|
+|🇧🇷|<mark style="background-color:#0d1f3c;color:#ffffff;">Me desculpe</mark>, não posso ir com você.|
 
-12 - Warui - Ruim / Bad
-Tenki ga warui
-The weather is bad. 
+---
 
-13 ii - Bom / Good
-Yasai wa karada ni ii desu.
-Vegetables are good for you.
+## 4 · Oyasuminasai
 
-14 Kirei - Bonito / Pretty
-Sakura ga kirei da ne.
-The cherry blossomms are pretty aren't they?
+**Pronúncia:** O · ya · su · mi · NA · sai 🇺🇸 **Good night** · 🇧🇷 **Boa noite**
 
-15 Minikui - Feio / Ugly
-Minikui kao
-Ugly face
+|🇯🇵|Kurokawa-sensei, <mark style="background-color:#0d1f3c;color:#ffffff;">oyasuminasai</mark>.|
+|---|---|
+|🇺🇸|<mark style="background-color:#0d1f3c;color:#ffffff;">Good night</mark>, Mr. Kurokawa.|
+|🇧🇷|<mark style="background-color:#0d1f3c;color:#ffffff;">Boa noite</mark>, professor Kurokawa.|
 
-16 - Kantan - Facil / Easy
-Kantan na shiken
-Easy exam
+---
 
-17 - Muzukashii - Dificil / Difficult
-Muzukashii shigoto
-Difficult job
+## 5 · Hajimemashite
 
-18 - Chikai - Perto / Near
-Watashi no gakko wa byoin no chikaku ni aru.
-My school is near the hospital.
+**Pronúncia:** Ha · ji · me · MASH · te 🇺🇸 **Nice to meet you** · 🇧🇷 **Prazer em conhecê-lo**
 
-19 - Toi - Longe / Far
-Josei wa, toi nani ka o mite iru.
-The woman is looking at something very far away
+|🇯🇵|Abe-san, <mark style="background-color:#0d1f3c;color:#ffffff;">Hajimemashite</mark>. Daniel to moshimasu.|
+|---|---|
+|🇺🇸|Mr. Abe, <mark style="background-color:#0d1f3c;color:#ffffff;">nice to meet you</mark>. I'm Daniel.|
+|🇧🇷|Sr. Abe, <mark style="background-color:#0d1f3c;color:#ffffff;">prazer em conhecê-lo</mark>. Eu sou Daniel.|
 
-20 - Chiisai - Pequeno / small
-Kono kuruma wa chiisai desu.
-This car is small
+---
+
+## 6 · O-genki desu ka
+
+**Pronúncia:** O · GEN · ki · des · KA 🇺🇸 **How are you?** · 🇧🇷 **Como você está?**
+
+|🇯🇵|Kon'nichiwa, Matsushima-san, <mark style="background-color:#0d1f3c;color:#ffffff;">o-genki desu ka</mark>.|
+|---|---|
+|🇺🇸|Hello, Mr. Matsushima. <mark style="background-color:#0d1f3c;color:#ffffff;">How are you?</mark>|
+|🇧🇷|Olá, Sr. Matsushima. <mark style="background-color:#0d1f3c;color:#ffffff;">Como você está?</mark>|
+
+---
+
+## 7 · Hai
+
+**Pronúncia:** HAI (como "hi") 🇺🇸 **Yes** · 🇧🇷 **Sim**
+
+|🇯🇵|<mark style="background-color:#0d1f3c;color:#ffffff;">Hai</mark>, kore wa watashi no desu.|
+|---|---|
+|🇺🇸|<mark style="background-color:#0d1f3c;color:#ffffff;">Yes</mark>, this is mine.|
+|🇧🇷|<mark style="background-color:#0d1f3c;color:#ffffff;">Sim</mark>, isso é meu.|
+
+---
+
+## 8 · Iie
+
+**Pronúncia:** Í · i · e (ee-eh) 🇺🇸 **No** · 🇧🇷 **Não**
+
+|🇯🇵|<mark style="background-color:#0d1f3c;color:#ffffff;">Iie</mark>, watashi wa nusunde imasen!|
+|---|---|
+|🇺🇸|<mark style="background-color:#0d1f3c;color:#ffffff;">No</mark>, I didn't steal it!|
+|🇧🇷|<mark style="background-color:#0d1f3c;color:#ffffff;">Não</mark>, eu não roubei!|
+
+---
+
+## 9 · Arigatō
+
+**Pronúncia:** A · ri · GA · tô 🇺🇸 **Thank you** · 🇧🇷 **Obrigado/a**
+
+|🇯🇵|<mark style="background-color:#0d1f3c;color:#ffffff;">Arigatō</mark>. Demo, watashi wa kore o chumon shite imasen.|
+|---|---|
+|🇺🇸|<mark style="background-color:#0d1f3c;color:#ffffff;">Thank you</mark>, but I didn't order this.|
+|🇧🇷|<mark style="background-color:#0d1f3c;color:#ffffff;">Obrigado</mark>, mas eu não pedi isso.|
+
+---
+
+## 10 · Watashi wa ___ desu
+
+**Pronúncia:** Wa · TA · shi · wa · ___ · des 🇺🇸 **I am ___** · 🇧🇷 **Eu sou ___**
+
+|🇯🇵|<mark style="background-color:#0d1f3c;color:#ffffff;">Watashi wa</mark> Daniel <mark style="background-color:#0d1f3c;color:#ffffff;">desu</mark>.|
+|---|---|
+|🇺🇸|<mark style="background-color:#0d1f3c;color:#ffffff;">I am</mark> Daniel.|
+|🇧🇷|<mark style="background-color:#0d1f3c;color:#ffffff;">Eu sou</mark> Daniel.|
+
+---
+
+## 11 · Sayōnara
+
+**Pronúncia:** Sa · yô · NA · ra 🇺🇸 **Goodbye** · 🇧🇷 **Tchau / Adeus**
+
+|🇯🇵|<mark style="background-color:#0d1f3c;color:#ffffff;">Sayōnara</mark>, mata ashita aimasho!|
+|---|---|
+|🇺🇸|<mark style="background-color:#0d1f3c;color:#ffffff;">Goodbye</mark>, I'll see you tomorrow!|
+|🇧🇷|<mark style="background-color:#0d1f3c;color:#ffffff;">Tchau</mark>, até amanhã!|
+
+---
+
+## 12 · Warui
+
+**Pronúncia:** Wa · RÚ · i 🇺🇸 **Bad** · 🇧🇷 **Ruim / Mau**
+
+|🇯🇵|Tenki ga <mark style="background-color:#0d1f3c;color:#ffffff;">warui</mark>.|
+|---|---|
+|🇺🇸|The weather is <mark style="background-color:#0d1f3c;color:#ffffff;">bad</mark>.|
+|🇧🇷|O tempo está <mark style="background-color:#0d1f3c;color:#ffffff;">ruim</mark>.|
+
+---
+
+## 13 · Ii
+
+**Pronúncia:** ÍI (ee longo) 🇺🇸 **Good** · 🇧🇷 **Bom / Boa**
+
+|🇯🇵|Yasai wa karada ni <mark style="background-color:#0d1f3c;color:#ffffff;">ii</mark> desu.|
+|---|---|
+|🇺🇸|Vegetables are <mark style="background-color:#0d1f3c;color:#ffffff;">good</mark> for you.|
+|🇧🇷|Vegetais são <mark style="background-color:#0d1f3c;color:#ffffff;">bons</mark> para você.|
+
+---
+
+## 14 · Kirei
+
+**Pronúncia:** Ki · RÉI 🇺🇸 **Pretty · Beautiful** · 🇧🇷 **Bonito/a · Lindo/a**
+
+|🇯🇵|Sakura ga <mark style="background-color:#0d1f3c;color:#ffffff;">kirei</mark> da ne.|
+|---|---|
+|🇺🇸|The cherry blossoms are <mark style="background-color:#0d1f3c;color:#ffffff;">pretty</mark>, aren't they?|
+|🇧🇷|As flores de cerejeira são <mark style="background-color:#0d1f3c;color:#ffffff;">lindas</mark>, não são?|
+
+---
+
+## 15 · Minikui
+
+**Pronúncia:** Mi · ni · KÚ · i 🇺🇸 **Ugly** · 🇧🇷 **Feio/a**
+
+|🇯🇵|<mark style="background-color:#0d1f3c;color:#ffffff;">Minikui</mark> kao.|
+|---|---|
+|🇺🇸|<mark style="background-color:#0d1f3c;color:#ffffff;">Ugly</mark> face.|
+|🇧🇷|Rosto <mark style="background-color:#0d1f3c;color:#ffffff;">feio</mark>.|
+
+---
+
+## 16 · Kantan
+
+**Pronúncia:** KÂN · tan 🇺🇸 **Easy** · 🇧🇷 **Fácil**
+
+|🇯🇵|<mark style="background-color:#0d1f3c;color:#ffffff;">Kantan</mark> na shiken.|
+|---|---|
+|🇺🇸|<mark style="background-color:#0d1f3c;color:#ffffff;">Easy</mark> exam.|
+|🇧🇷|Prova <mark style="background-color:#0d1f3c;color:#ffffff;">fácil</mark>.|
+
+---
+
+## 17 · Muzukashii
+
+**Pronúncia:** Mu · zu · KÁ · shii 🇺🇸 **Difficult** · 🇧🇷 **Difícil**
+
+|🇯🇵|<mark style="background-color:#0d1f3c;color:#ffffff;">Muzukashii</mark> shigoto.|
+|---|---|
+|🇺🇸|<mark style="background-color:#0d1f3c;color:#ffffff;">Difficult</mark> job.|
+|🇧🇷|Trabalho <mark style="background-color:#0d1f3c;color:#ffffff;">difícil</mark>.|
+
+---
+
+## 18 · Chikai
+
+**Pronúncia:** Chi · KÁI 🇺🇸 **Near · Close** · 🇧🇷 **Perto**
+
+|🇯🇵|Watashi no gakko wa byoin no <mark style="background-color:#0d1f3c;color:#ffffff;">chikaku</mark> ni aru.|
+|---|---|
+|🇺🇸|My school is <mark style="background-color:#0d1f3c;color:#ffffff;">near</mark> the hospital.|
+|🇧🇷|Minha escola fica <mark style="background-color:#0d1f3c;color:#ffffff;">perto</mark> do hospital.|
+
+---
+
+## 19 · Tōi
+
+**Pronúncia:** TÔ · i 🇺🇸 **Far** · 🇧🇷 **Longe**
+
+|🇯🇵|Josei wa, <mark style="background-color:#0d1f3c;color:#ffffff;">toi</mark> nani ka o mite iru.|
+|---|---|
+|🇺🇸|The woman is looking at something very <mark style="background-color:#0d1f3c;color:#ffffff;">far</mark> away.|
+|🇧🇷|A mulher está olhando para algo muito <mark style="background-color:#0d1f3c;color:#ffffff;">longe</mark>.|
+
+---
+
+## 20 · Chiisai
+
+**Pronúncia:** Chi · i · SÁI 🇺🇸 **Small** · 🇧🇷 **Pequeno/a**
+
+|🇯🇵|Kono kuruma wa <mark style="background-color:#0d1f3c;color:#ffffff;">chiisai</mark> desu.|
+|---|---|
+|🇺🇸|This car is <mark style="background-color:#0d1f3c;color:#ffffff;">small</mark>.|
+|🇧🇷|Este carro é <mark style="background-color:#0d1f3c;color:#ffffff;">pequeno</mark>.|
+
+---
