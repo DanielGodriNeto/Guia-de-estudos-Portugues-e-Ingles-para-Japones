@@ -100,34 +100,34 @@ Além do vocabulário isolado, o vault inclui frases reais usadas no dia a dia, 
 ```
 📁 vault/
 │
-├── 📁 Kana/
-│   └── - Hiragana and Katakana Flashcards.md
-│         ↳ Flashcards de todos os caracteres hiragana e katakana
-│           em formato de repetição espaçada (あ ア :: A)
+├── 📁 Hiragana e Katana/
+│   └── Flashcards de todos os caracteres hiragana e katakana
+│       em formato de repetição espaçada (あ ア :: A)
 │
-├── 📁 Vocabulário/
-│   ├── 1-20 Palavras.md
-│   │     ↳ Palavras 1 a 20 com romaji, tradução PT/EN e frases de exemplo
-│   ├── 1-20 Flashcards.md
-│   │     ↳ Flashcards das palavras 1-20 prontos para o Spaced Repetition
-│   └── ... (21-800 em breve)
+├── 📁 1-800 Palavras mais comuns/
+│   └── Vocabulário e flashcards separados de 20 em 20 palavras
+│       (em progresso — todas as 800 serão adicionadas)
 │
-├── 📁 Prompts/
-│   └── Flashcards Prompt.md
-│         ↳ Prompt para gerar novos flashcards no padrão deste vault
+├── 📁 Prompt/
+│   └── Prompt para gerar novos flashcards no padrão deste vault
 │
 ├── LICENSE.md
 └── README.md
 ```
 
-### 📄 Sobre cada arquivo
+### 📄 Sobre o vocabulário
 
-| Arquivo | Conteúdo |
-|---|---|
-| `- Hiragana and Katakana Flashcards.md` | Todos os 46 caracteres de cada silabário em flashcard (`あ ア :: A`) |
-| `1-20 Palavras.md` | Palavras 1–20 com romaji, tradução PT & EN e frases de exemplo reais |
-| `1-20 Flashcards.md` | Flashcards das palavras 1–20 com rastreamento do Spaced Repetition |
-| `Flashcards Prompt.md` | Prompt pronto para gerar novos flashcards no padrão `#flashcards/Japanese_Basics` |
+O vocabulário está organizado em grupos de **20 palavras**, cada grupo com sua nota de palavras e seus flashcards correspondentes. Recomendo aprender **acompanhando o vídeo do JapanesePod101**, de 20 em 20 palavras por sessão.
+
+Todas as 800 palavras serão adicionadas gradualmente — e talvez mais.
+
+> ⚠️ **A pronúncia em áudio não está incluída ainda.** Planejo adicioná-la futuramente. Por enquanto, use o romaji e o vídeo como referência de pronúncia.
+
+---
+
+### 🤝 Contribuições
+
+Se este vault te ajudou e você quiser contribuir — seja corrigindo algo, adicionando conteúdo ou melhorando os flashcards — ficaria muito feliz e agradecido! Sinta-se à vontade para abrir uma *pull request* ou uma *issue* no GitHub.
 
 ---
 
@@ -150,11 +150,10 @@ Além do vocabulário isolado, o vault inclui frases reais usadas no dia a dia, 
 
 ## 📌 Dicas para estudar bem
 
-1. **Estude todo dia**, mesmo que por 10 minutos — a consistência vence a intensidade
-2. **Revise os flashcards primeiro** ao abrir o Obsidian
-3. **Não pule o hiragana** — é a base de tudo
-4. **Ouça o vídeo do JapanesePod101** enquanto acompanha as notas
-5. **Escreva à mão** os caracteres — ajuda muito na memorização
+1. **Aprenda o Hiragana e o Katakana primeiro** — gaste o tempo que for necessário até acertar todos os caracteres antes de avançar
+2. **Aprenda 20 palavras por dia** — use o plugin Spaced Repetition para revisar e dar mais atenção ao que tiver mais dificuldade
+3. **Ouça o vídeo** enquanto estuda — ele é essencial para aprender a pronúncia correta de cada palavra
+4. **Escreva as palavras e os caracteres à mão** — escrever ajuda muito na memorização e na fixação
 
 ---
 
