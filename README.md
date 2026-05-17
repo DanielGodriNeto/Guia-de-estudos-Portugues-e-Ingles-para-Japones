@@ -99,25 +99,35 @@ Além do vocabulário isolado, o vault inclui frases reais usadas no dia a dia, 
 
 ```
 📁 vault/
-├── 📁 Hiragana/
-│   ├── Vogais básicas.md
-│   ├── Consoantes.md
-│   └── Flashcards - Hiragana.md
-├── 📁 Katakana/
-│   ├── Vogais básicas.md
-│   ├── Consoantes.md
-│   └── Flashcards - Katakana.md
+│
+├── 📁 Kana/
+│   └── - Hiragana and Katakana Flashcards.md
+│         ↳ Flashcards de todos os caracteres hiragana e katakana
+│           em formato de repetição espaçada (あ ア :: A)
+│
 ├── 📁 Vocabulário/
-│   ├── 800 palavras - parte 1.md
-│   ├── 800 palavras - parte 2.md
-│   └── ...
-├── 📁 Frases/
-│   ├── Cumprimentos.md
-│   ├── Restaurante.md
-│   ├── Transporte.md
-│   └── ...
+│   ├── 1-20 Palavras.md
+│   │     ↳ Palavras 1 a 20 com romaji, tradução PT/EN e frases de exemplo
+│   ├── 1-20 Flashcards.md
+│   │     ↳ Flashcards das palavras 1-20 prontos para o Spaced Repetition
+│   └── ... (21-800 em breve)
+│
+├── 📁 Prompts/
+│   └── Flashcards Prompt.md
+│         ↳ Prompt para gerar novos flashcards no padrão deste vault
+│
+├── LICENSE.md
 └── README.md
 ```
+
+### 📄 Sobre cada arquivo
+
+| Arquivo | Conteúdo |
+|---|---|
+| `- Hiragana and Katakana Flashcards.md` | Todos os 46 caracteres de cada silabário em flashcard (`あ ア :: A`) |
+| `1-20 Palavras.md` | Palavras 1–20 com romaji, tradução PT & EN e frases de exemplo reais |
+| `1-20 Flashcards.md` | Flashcards das palavras 1–20 com rastreamento do Spaced Repetition |
+| `Flashcards Prompt.md` | Prompt pronto para gerar novos flashcards no padrão `#flashcards/Japanese_Basics` |
 
 ---
 
