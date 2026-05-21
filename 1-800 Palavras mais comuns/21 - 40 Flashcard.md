@@ -1,0 +1,3 @@
+#flashcards/Japanese_Basics
+
+今日 (Kyō)::Today / Hoje 昨日 (Kinō)::Yesterday / Ontem 明日 (Ashita)::Tomorrow / Amanhã 週 (Shū)::Week / Semana 年 (Toshi)::Year / Ano 秒 (Byō)::Second / Segundo 分 (Fun)::Minute / Minuto 時間 (Jikan)::Hour / Hora 時計 (Tokei)::Clock / Relógio 時 (Ji)::O'clock / Horas カレンダー (Karenda)::Calendar / Calendário 月曜日 (Getsu-yōbi)::Monday / Segunda-feira 火曜日 (Ka-yōbi)::Tuesday / Terça-feira 水曜日 (Sui-yōbi)::Wednesday / Quarta-feira 木曜日 (Moku-yōbi)::Thursday / Quinta-feira 金曜日 (Kin-yōbi)::Friday / Sexta-feira 土曜日 (Do-yōbi)::Saturday / Sábado 日曜日 (Nichi-yōbi)::Sunday / Domingo する (Suru)::Do / Fazer 行く (Iku)::Go / **Ir****
